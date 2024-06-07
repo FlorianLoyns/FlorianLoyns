@@ -1,17 +1,20 @@
 # Hi, I'm Florian 👋 👨‍💻 🌱
 
-<a href="https://"><img src="https://img.shields.io/badge/Tech--Savvy-90-blue?style=for-the-badge" alt="Tech-Savvy - 90"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Communicator-85-green?style=for-the-badge" alt="Communicator - 85"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Team--Player-80-orange?style=for-the-badge" alt="Team-Player - 80"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Problem--Solver-95-red?style=for-the-badge" alt="Problem-Solver - 95"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Learner-90-yellow?style=for-the-badge" alt="Learner - 90"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Organizer-85-green?style=for-the-badge" alt="Organizer - 85"></a>
+<a href="https://www.linkedin.com/in/florianloyns/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Tech--Savvy-90-blue?style=for-the-badge" alt="Tech-Savvy - 90"></a>
+<a href="#"><img src="https://img.shields.io/badge/Communicator-85-green?style=for-the-badge" alt="Communicator - 85"></a>
+<a href="#"><img src="https://img.shields.io/badge/Problem--Solver-95-red?style=for-the-badge" alt="Problem-Solver - 95"></a>
+<a href="#"><img src="https://img.shields.io/badge/Learner-90-yellow?style=for-the-badge" alt="Learner - 90"></a>
+<a href="#"><img src="https://img.shields.io/badge/Organizer-85-green?style=for-the-badge" alt="Organizer - 85"></a>
 
-I'm an interdisciplinary professional with a background in Media Sciences and Intensive Care Nursing. Currently, I'm a Research Associate at the Department of Nursing Science, Hochschule für Gesundheit Bochum, where I'm pushing the boundaries of healthcare simulations with innovative technologies.
+I'm an interdisciplinary professional with a background in Media Sciences, Pedagogy and Intensive Care Nursing. Currently, I'm a Nurse Educator, focusing on the integration of innovative technologies in healthcare education.
 
-I'm fascinated by the potential of simulation technology to improve healthcare education, and I'm passionate about reducing the theory-practice gap in healthcare. In my work, I strive to bring together different fields and perspectives to create meaningful and effective learning experiences.
+## About Me
+I'm fascinated by the potential of simulation technology to improve healthcare education. My goal is to reduce the theory-practice gap in healthcare by integrating different fields and perspectives to create meaningful and effective learning experiences.
 
-## My interests
-1. Simulation technology in healthcare education
-2. Interdisciplinary collaboration in healthcare
-3. Research to improve nursing practice
+## My Interests
+1. **Simulation Technology in Healthcare Education**: Enhancing learning experiences with innovative technologies.
+2. **Interdisciplinary Collaboration in Healthcare**: Promoting teamwork to improve patient outcomes.
+3. **Research to Improve Nursing Practice**: Bridging the gap between theory and practice.
+
+Feel free to connect with me. I'm always open to discussions about new technologies and collaborative research opportunities!
