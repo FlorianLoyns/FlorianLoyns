@@ -11,10 +11,3 @@ I'm an interdisciplinary professional with a background in Media Sciences, Pedag
 
 ## About Me
 I'm fascinated by the potential of simulation technology to improve healthcare education. My goal is to reduce the theory-practice gap in healthcare by integrating different fields and perspectives to create meaningful and effective learning experiences.
-
-## My Interests
-1. **Simulation Technology in Healthcare Education**: Enhancing learning experiences with innovative technologies.
-2. **Interdisciplinary Collaboration in Healthcare**: Promoting teamwork to improve patient outcomes.
-3. **Research to Improve Nursing Practice**: Bridging the gap between theory and practice.
-
-Feel free to connect with me. I'm always open to discussions about new technologies and collaborative research opportunities!
