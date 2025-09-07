@@ -10,7 +10,7 @@
 ---
 
 I'm an interdisciplinary professional with a background in media sciences, pedagogy and intensive care nursing.  
-Currently working as a nurse educator 🩺, focusing on simulation and innovative technologies 💡 in healthcare education.
+Currently working as a nurse educator, focusing on simulation and innovative technologies in healthcare education.
 
 ## About Me
 I'm fascinated by the potential of simulation and digital tools to transform learning in healthcare.  
