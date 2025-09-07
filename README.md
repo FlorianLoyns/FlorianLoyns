@@ -12,4 +12,4 @@
 I'm an interdisciplinary professional with a background in media sciences, pedagogy and intensive care nursing. Currently working as a nurse educator, focusing on simulation and innovative technologies in healthcare education.
 
 ## About Me
-I'm fascinated by the potential of simulation and digital tools to transform learning in healthcare. My goal is to bridge the theory–practice gap by combining perspectives from care, media and education to create meaningful and effective learning experiences.
+I am fascinated by the potential of simulation and digital tools to transform healthcare education. My goal is to bridge the gap between theory and practice by combining insights from healthcare, media, and education to design meaningful and effective learning experiences.
