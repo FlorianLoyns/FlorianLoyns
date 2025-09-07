@@ -1,4 +1,4 @@
-# Hi, I'm Florian 👋 👨‍💻 🌱
+# Hi, I'm Florian 👋 👨‍💻
 
 <a href="https://www.linkedin.com/in/florianloyns/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Problem--Solver-95-red?style=for-the-badge" alt="Problem-Solver - 95"></a>
