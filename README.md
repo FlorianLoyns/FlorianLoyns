@@ -9,9 +9,9 @@
 
 ---
 
-I'm an **interdisciplinary professional** with a background in **Media Sciences, Pedagogy and Intensive Care Nursing**.  
-Currently working as a **Nurse Educator 🩺**, focusing on **simulation & innovative technologies 💡** in healthcare education.
+I'm an interdisciplinary professional with a background in media sciences, pedagogy and intensive care nursing.  
+Currently working as a nurse educator 🩺, focusing on simulation and innovative technologies 💡 in healthcare education.
 
 ## About Me
-I'm fascinated by the potential of **simulation & digital tools** to transform learning in healthcare.  
-My goal is to **bridge the theory–practice gap** by combining perspectives from care, media, and education to create **meaningful and effective learning experiences**.
+I'm fascinated by the potential of simulation and digital tools to transform learning in healthcare.  
+My goal is to bridge the theory–practice gap by combining perspectives from care, media and education to create meaningful and effective learning experiences.
