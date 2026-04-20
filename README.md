@@ -1,5 +1,7 @@
-# Hi, I'm Florian 👋
+# Hey, ich bin Florian 👋
 
-I work at the intersection of healthcare, education, and media. Background in intensive care nursing, pedagogy, and media science – here I share practical digital tools for education.
+Ich arbeite an der Schnittstelle von Pflege, Bildung und Medien.
+Hintergrund in Intensivpflege, Pädagogik und Medienwissenschaft –
+hier teile ich praxisnahe digitale Werkzeuge für die Ausbildung.
 
-Always open to feedback and collaboration.
+Über Feedback und Zusammenarbeit freue ich mich jederzeit.
