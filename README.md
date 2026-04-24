@@ -1,7 +1,5 @@
-# Hey, ich bin Florian 👋
+## Florian Loyns
 
-Ich arbeite an der Schnittstelle von Pflege, Bildung und Medien.
-Hintergrund in Intensivpflege, Pädagogik und Medienwissenschaft –
-hier teile ich praxisnahe digitale Werkzeuge für die Ausbildung.
+An der Schnittstelle von **Pflege, Bildung und Medien.** Intensivpflege, Pädagogik, Medienwissenschaft — ich baue digitale Werkzeuge für die generalistische Pflegeausbildung. Datenschutzfreundlich, offen lizenziert, aus dem Unterrichtsalltag heraus.
 
-Über Feedback und Zusammenarbeit freue ich mich jederzeit.
+→ [florianloyns.github.io](https://florianloyns.github.io/)
