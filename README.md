@@ -1,3 +1,7 @@
-An der Schnittstelle von Pflegepraxis, Pflegepädagogik und Medienwissenschaft. Hier entstehen datenschutzfreundliche, offen lizenzierte Lernwerkzeuge für Pflegeausbildung und Hochschullehre – aus der Praxis heraus. Schwerpunkte: Clinical Reasoning, Simulation und digitale Lehrentwicklung.
+## Code for Care.
 
-Alles läuft im Browser: ohne Anmeldung und Tracking. Quelltext unter MIT, Inhalte unter CC BY-SA 4.0.
+**Pflegepraxis · Pflegepädagogik · Medienwissenschaft**
+
+Ich entwickle offene, browserbasierte Werkzeuge für Lernen und Lehren – von Clinical Reasoning und OSCE-Planung bis zu interaktiven Unterrichtsformaten.
+
+Ohne Anmeldung · Offline nutzbar · Ohne Tracking
